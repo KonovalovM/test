@@ -43,6 +43,7 @@ body {
 	transition: visibility .6s ease-in-out;
 }
 #reset {
+    position: absolute;
     width: 240px;
 	height: 100px;
     background-image: url("images/heart.jpg");
