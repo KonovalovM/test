@@ -43,6 +43,8 @@ body {
 	transition: visibility .6s ease-in-out;
 }
 #reset {
+    top: 41%;
+    left: 41%;
     position: absolute;
     width: 240px;
 	height: 100px;
